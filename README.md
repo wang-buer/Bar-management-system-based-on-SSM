@@ -2,9 +2,9 @@
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**酒吧** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**酒吧**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,45 +31,37 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915595.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208061915595.jpg)
 
 ### 4.2 其他模块
 
-![桌位1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915132.jpg)
+![桌位1](https://www.codeshop.fun/Typora-Images/202208061915132.jpg)
 
-![桌位点菜](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915670.jpg)
+![桌位点菜](https://www.codeshop.fun/Typora-Images/202208061915670.jpg)
 
-![桌位点菜详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915427.jpg)
+![桌位点菜详情](https://www.codeshop.fun/Typora-Images/202208061915427.jpg)
 
-![桌位结账](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915533.jpg)
+![桌位结账](https://www.codeshop.fun/Typora-Images/202208061915533.jpg)
 
-![查看桌位](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915058.jpg)
+![查看桌位](https://www.codeshop.fun/Typora-Images/202208061915058.jpg)
 
-![添加桌位](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915975.jpg)
+![添加桌位](https://www.codeshop.fun/Typora-Images/202208061915975.jpg)
 
-![查看账号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915013.jpg)
+![查看账号](https://www.codeshop.fun/Typora-Images/202208061915013.jpg)
 
-![添加账号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915586.jpg)
+![添加账号](https://www.codeshop.fun/Typora-Images/202208061915586.jpg)
 
-![商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915512.jpg)
+![商品管理](https://www.codeshop.fun/Typora-Images/202208061915512.jpg)
 
-![添加商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061915034.jpg)
+![添加商品](https://www.codeshop.fun/Typora-Images/202208061915034.jpg)
 
-![查看供应商](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061916941.jpg)
+![查看供应商](https://www.codeshop.fun/Typora-Images/202208061916941.jpg)
 
-![添加供应商](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061916755.jpg)
+![添加供应商](https://www.codeshop.fun/Typora-Images/202208061916755.jpg)
 
-![账单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061916908.jpg)
+![账单](https://www.codeshop.fun/Typora-Images/202208061916908.jpg)
 
-![酒水库存管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061916464.jpg)
+![酒水库存管理](https://www.codeshop.fun/Typora-Images/202208061916464.jpg)
 
-![酒水销售信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208061916003.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**酒吧** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![酒水销售信息管理](https://www.codeshop.fun/Typora-Images/202208061916003.jpg)
 
